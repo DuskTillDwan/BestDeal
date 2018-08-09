@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<TelevisionCatalog>
+    <television id="samsung4k television">
+        <name>Samsung 4k television</name>
+        <price>9999.99</price>
+        <image>samsung4k.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </television>   
+    <television id="lg television">
+        <name>LG HD television</name>
+        <price>2999.99</price>
+        <image>lgtelevision.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </television>
+    <television id="sceptre television">
+        <name>Sceptre HD television</name>
+        <price>6549.99</price>
+        <image>sceptretelevision.jpeg</image>
+        <manufacturer>Sceptre</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </television>
+</TelevisionCatalog>
+
+<TabletCatalog>
+    <tablet id="ipad tablet">
+        <name>Apple Ipad Pro</name>
+        <price>189.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="ipad3 tablet">
+        <name>Apple Ipad 3</name>
+        <price>189.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Surface tablet">
+        <name>Surface</name>
+        <price>299.99</price>
+        <image>m1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Surface4 tablet">
+        <name>Surface Pro 4</name>
+        <price>299.99</price>
+        <image>m2.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Samsung2 tablet">
+        <name>Samsung Tab 2</name>
+        <price>150.99</price>
+        <image>s1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+</TabletCatalog>
+
+
+<SmartphoneCatalog>
+    <smartphone id="iphone7 smartphone">
+        <name>Iphone 7</name>
+        <price>749.99</price>
+        <image>iphone.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </smartphone>
+    <smartphone id="lgg6 smartphone">
+        <name>LG G6</name>
+        <price>649.99</price>
+        <image>lg-g6-1.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartphone>
+    <smartphone id="samsunggalaxy8 smartphone">
+        <name>Samsung Galaxy S8</name>
+        <price>850.00</price>
+        <image>sasmunggalaxy8.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </smartphone>
+</SmartphoneCatalog>
+
+<LaptopCatalog>
+    <laptop id="lenovothinkpad laptop">
+        <name>Lenovo Thinkpad</name>
+        <price>279.99</price>
+        <image>lenovothinkpad.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="macbookpro laptop">
+        <name>Macbook Pro 15"</name>
+        <price>2399.99</price>
+        <image>macbookpro.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="surfacebook laptop">
+        <name>Surface Book</name>
+        <price>2299.99</price>
+        <image>surfacebook.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+</LaptopCatalog>
+
+
+</ProductCatalog>
